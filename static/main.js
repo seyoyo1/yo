@@ -20,14 +20,14 @@ document.getElementById('btnEnter1').onclick = function() {
     window.location.href = 'https://www.baidu.com';
 }
 document.getElementById('btnEnter2').onclick = function() {
-    window.location.href = 'https://65.seyoyo51.com';
+    window.location.href = 'https://69.seyoyo51.com';
 }
 document.getElementById('btnEnter3').onclick = function() {
-    window.location.href = 'https://66.seyoyo51.com';
+    window.location.href = 'https://70.seyoyo51.com';
 }
 document.getElementById('btnEnter4').onclick = function() {
-    window.location.href = 'https://67.seyoyo51.com';
+    window.location.href = 'https://71.seyoyo51.com';
 }
 document.getElementById('btnEnter5').onclick = function() {
-    window.location.href = 'https://68.seyoyo51.com';
+    window.location.href = 'https://72.seyoyo51.com';
 }
